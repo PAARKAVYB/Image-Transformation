@@ -48,7 +48,7 @@ rotated_img=cv2.warpPerspective(input_img,M,(cols,rows))
 ### STEP 7:
 Crop the image using 
 ```
-cropped_img=input_img[20:150,60:230].
+cropped_img=input_img[20:150,60:230]
 ```
 
 ### STEP 8:
